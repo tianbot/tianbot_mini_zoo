@@ -1,2 +1,3 @@
-# tianbot_mini_zoo
-TianbotMini ROS移动机器人学习平台
+TianbotMini ROS移动机器人学习平台，10分钟跑通机器人SLAM应用，自主导航尽在掌心之中。
+
+翻车王老师 备 2020.07.01

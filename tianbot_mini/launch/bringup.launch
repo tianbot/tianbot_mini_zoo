@@ -1,0 +1,5 @@
+<launch>
+
+  <node pkg="rosserial_server" type="socket_node" name="tianbot_mini" output="log"/>
+
+</launch>
